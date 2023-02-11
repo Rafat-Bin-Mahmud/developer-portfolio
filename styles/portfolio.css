@@ -17,24 +17,6 @@
     background: #FD6E0A;
     border-radius: 5px;
 }
-/* .btn-para{
-    margin-top: 10px;
-    margin-bottom: 10px;
-} */
-.icon {
-    width: 24px;
-    height: 24px;
-    left: 100px;
-    /* top: 610px;
-    margin: 10px 10px 10px 10px; */
-}
-.icon-2{
-    width: 24px;
-    height: 24px;
-    left: 484px;
-    /* top: 610px;
-    margin: 10px 10px 10px 10px; */
-}
 
 .header {
     background: #FFF8F3;
